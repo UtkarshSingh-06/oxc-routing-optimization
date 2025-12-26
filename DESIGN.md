@@ -1,11 +1,12 @@
 ---
+title: Design
+---
 
-# 📄 `DESIGN.md`
-
-```markdown
 # Design Document: OXC Routing Heuristic
 
 ## Design Goals
+...
+
 
 1. **Correctness**
    - Every routed flow must correspond to a valid OXC optical connection.
