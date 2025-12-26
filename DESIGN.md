@@ -1,6 +1,4 @@
----
-title: Design
----
+
 
 # Design Document: OXC Routing Heuristic
 
